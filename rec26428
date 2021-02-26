@@ -1,0 +1,27 @@
+project3/:
+total 136
+-rw-r--r--. 1 myid 11618 Nov  2 18:40 BankSimulation.cpp
+-rw-r--r--. 1 myid  9693 Oct 29 01:46 BankSimulationProto2.cpp
+-rw-r--r--. 1 myid  6968 Nov  2 18:53 BankSimulationProto.cpp
+-rw-r--r--. 1 myid  5450 Nov  2 14:54 Customer.cpp
+-rw-r--r--. 1 myid  4328 Nov  2 15:06 Customer.h
+-rw-r--r--. 1 myid    91 Oct 26 22:26 Header.h
+-rw-r--r--. 1 myid   696 Nov  2 18:55 input.txt
+-rw-r--r--. 1 myid   823 Nov  2 17:22 Makefile
+-rw-r--r--. 1 myid  2664 Nov  2 17:59 #outFile.txt#
+-rw-r--r--. 1 myid  2659 Nov  2 18:55 outFile.txt
+-rw-r--r--. 1 myid  6288 Oct 27 23:18 PriorityQueue.cpp
+-rw-r--r--. 1 myid  2591 Oct 26 22:27 PriorityQueue.h
+-rw-r--r--. 1 myid  5560 Nov  2 18:00 QueType.cpp
+-rw-r--r--. 1 myid  1635 Oct 27 14:49 QueType.h
+-rw-r--r--. 1 myid   261 Nov  2 17:22 README.txt
+-rw-r--r--. 1 myid   818 Oct 28 11:13 rec15002
+-rw-r--r--. 1 myid   864 Oct 28 11:28 rec18226
+-rw-r--r--. 1 myid   910 Oct 28 11:33 rec19375
+-rw-r--r--. 1 myid   956 Oct 28 11:45 rec22973
+-rw-r--r--. 1 myid     0 Nov  2 18:56 rec26428
+-rw-r--r--. 1 myid   762 Oct 27 23:46 rec30903
+-rw-r--r--. 1 myid  1109 Nov  2 15:23 rec5547
+-rw-r--r--. 1 myid  1064 Oct 29 01:51 rec8324
+-rw-r--r--. 1 myid 10201 Nov  2 17:53 temp.cpp
+/home/myid/asm38587/project3/:/home/myid/csci-2720

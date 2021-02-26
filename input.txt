@@ -1,0 +1,23 @@
+numTellers 4
+numCustomers 20
+
+Customer1  arrival 5 service 45
+Customer2  arrival 6 service 54
+Customer3  arrival 7 service 63
+Customer4  arrival 8 service 32
+Customer5  arrival 10 service 40
+Customer6  arrival 10 service 40
+Customer7  arrival 15 service 5
+Customer8  arrival 16 service 30
+Customer9  arrival 19 service 65
+Customer10 arrival 20 service 70
+Customer11 arrival 21 service 80
+Customer12 arrival 25 service 90
+Customer13 arrival 30 service 65
+Customer14 arrival 80 service 120
+Customer15 arrival 90 service 180
+Customer16 arrival 120 service 250
+Customer17 arrival 160 service 100
+Customer18 arrival 160 service 190
+Customer19 arrival 170 service 20
+Customer20 arrival 180 service 600

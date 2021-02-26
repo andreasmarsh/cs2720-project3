@@ -1,0 +1,83 @@
+This project is done by Andreas Marsh
+I will print the wait queue every 5 customers
+and the customer currently at teller(s) every 5 customer
+
+Wait Queue at customer 5 arrival:
+Customer5 30  wait  service 80
+
+Teller Queue at customer 5 arrival:
+Customer4 Customer1 Customer2 Customer3 
+
+
+Wait Queue at customer 10 arrival:
+Customer5 30  wait  service 80
+Customer6 40  wait  service 90
+Customer7 45  wait  service 65
+Customer8 49  wait  service 95
+Customer9 51  wait  service 135
+Customer10 60  wait  service 150
+
+Teller Queue at customer 10 arrival:
+Customer4 Customer1 Customer2 Customer3 
+
+
+Wait Queue at customer 15 arrival:
+Customer11 69  wait  service 170
+Customer12 70  wait  service 185
+Customer13 105  wait  service 200
+Customer14 70  wait  service 270
+Customer15 80  wait  service 350
+
+Teller Queue at customer 15 arrival:
+Customer6 Customer8 Customer9 Customer10 
+
+
+Wait Queue at customer 20 arrival:
+Customer16 65  wait  service 435
+Customer17 40  wait  service 300
+Customer18 110  wait  service 460
+Customer19 130  wait  service 320
+Customer20 140  wait  service 920
+
+Teller Queue at customer 20 arrival:
+Customer12 Customer13 Customer14 Customer15 
+
+
+Departure queue:
+Customer4 0  wait  service 40
+Customer1 0  wait  service 50
+Customer2 0  wait  service 60
+Customer7 45  wait  service 65
+Customer3 0  wait  service 70
+Customer5 30  wait  service 80
+Customer6 40  wait  service 90
+Customer8 49  wait  service 95
+Customer9 51  wait  service 135
+Customer10 60  wait  service 150
+Customer11 69  wait  service 170
+Customer12 70  wait  service 185
+Customer13 105  wait  service 200
+Customer14 70  wait  service 270
+Customer17 40  wait  service 300
+Customer19 130  wait  service 320
+Customer15 80  wait  service 350
+Customer16 65  wait  service 435
+Customer18 110  wait  service 460
+Customer20 140  wait  service 920
+Average waiting time = 57.7
+
+Number of tellers for required wait time is 8
+
+Here's a little explination of my code:
+My implementation assesses inputs as minutes and createas a 
+QueType arrivalQ that hold customers upon entering the store, 
+QueType waitQ that holds customers waiting to be serviced, 
+PriorityQueue atTeller that mimics customers at the tellers and sorts them based on departure time, 
+and a QueType leftStore that holds customers once they leave
+so that they can be printed at the end of my code in sorted order based on departure time.
+If you would like to see my implementation with 3 queues
+use commands make compile2, make run2, and make clean2
+as this will run another version of BankSimulation called BankSimulationProto
+If you have any questions or concerns, please email me @ andreas.marsh@uga.edu
+Thank You! :)
+emacs

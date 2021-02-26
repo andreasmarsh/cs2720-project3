@@ -1,0 +1,17 @@
+project3/:
+total 64
+-rw-r--r--. 1 myid 6832 Oct 27 23:22 BankSimulation.cpp
+-rw-r--r--. 1 myid 3860 Oct 27 16:02 Customer.cpp
+-rw-r--r--. 1 myid 1990 Oct 27 15:20 Customer.h
+-rw-r--r--. 1 myid   91 Oct 26 22:26 Header.h
+-rw-r--r--. 1 myid  696 Oct 26 16:12 input.txt
+-rw-r--r--. 1 myid  558 Oct 27 14:47 Makefile
+-rw-r--r--. 1 myid  804 Oct 27 21:20 #outFile.txt#
+-rw-r--r--. 1 myid 1365 Oct 27 23:36 outFile.txt
+-rw-r--r--. 1 myid 6288 Oct 27 23:18 PriorityQueue.cpp
+-rw-r--r--. 1 myid 2591 Oct 26 22:27 PriorityQueue.h
+-rw-r--r--. 1 myid 5581 Oct 27 23:10 QueType.cpp
+-rw-r--r--. 1 myid 1635 Oct 27 14:49 QueType.h
+-rw-r--r--. 1 myid  147 Oct 26 12:06 README.txt
+-rw-r--r--. 1 myid    0 Oct 27 23:46 rec30903
+/home/myid/asm38587/project3/:/home/myid/csci-2720
